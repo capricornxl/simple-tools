@@ -8,7 +8,7 @@ openldapbackup.sh
 > 阿里云RDS-MYSQL版本自动备份数据库到本地服务器，支持微信通知。
 
 ## query_domain_expired.py
-＞ 查询阿里云域名到期时间，支持微信通知。
+> 查询阿里云域名到期时间，支持微信通知。
 
 ## query_ecs_expired.py
 > 查询阿里云ECS过期时间，支持微信通知。
